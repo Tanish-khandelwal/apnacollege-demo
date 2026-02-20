@@ -1,2 +1,4 @@
 # apnacollege-demo
-this my first Git repository
+This my first Git repository. 
+<br>
+I am larning Git commands.
